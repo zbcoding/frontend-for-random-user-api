@@ -8,7 +8,7 @@ Possible future improvements:
 - [storing tags in local storage]
 - [layout changes]
 
-![Image 1](/my-app/public/example.png)
+![Image 1](/public/example.png)
 
 # Welcome to Remix!
 
