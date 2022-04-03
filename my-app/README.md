@@ -1,6 +1,12 @@
 A front end website to display some data from the randomuser api.
 
+Remix Run, React, Chakra UI.
+
 git clone, then npm i, then npm run dev for the site on localhost:3000 
+
+Possible future improvements: 
+-storing tags in local storage
+-layout changes
 
 ![Image 1](/my-app/public/example.png)
 
