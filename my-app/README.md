@@ -1,3 +1,9 @@
+A front end website to display some data from the randomuser api.
+
+git clone, then npm i, then npm run dev for the site on localhost:3000 
+
+![Image 1](/my-app/public/example.png)
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
